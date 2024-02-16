@@ -1,0 +1,475 @@
+.navbar-content{
+    color: #D27722;
+    font-size: 32px;
+    font-family: 'Rubik'; 
+    font-weight: 700; 
+}
+.nav-a{
+    color: #252422; 
+    font-size: 10px;
+    font-family: 'Outfit'; 
+    font-weight: 400; 
+    text-transform: capitalize;
+}
+
+.down{
+    width: 100%; 
+    height: 100%; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 22px; 
+    display: inline-flex
+}
+.down2{
+    position: relative
+}
+.down3{
+    left: 0px;
+    top: 0px; 
+    position: absolute; 
+    color: #252422; 
+    font-size: 19px; 
+    font-family: 'Outfit'; 
+    font-weight: 400; 
+    line-height: 19px; 
+    word-wrap: break-word
+}
+.nabar{
+    width: 100%; height: 100%; justify-content: space-between; align-items: center; display: inline-flex
+}
+.downs{
+   
+    color: #252422;
+    font-size: 19px;
+    font-family: 'Outfit';
+    font-weight: 400;
+}
+.down1{
+    color: #D27722;
+}
+.nab1{
+    width: 5%; 
+    height: 5%; 
+    padding-left: 100px; 
+    padding-right: 100px; 
+    /* padding-top: 8px; 
+    padding-bottom: 8px;  */
+    background: #D27722; 
+    border-radius: 4px; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 8px; 
+    display: inline-flex;
+}
+.nab2{
+    color: white; 
+    font-size: 20px; 
+    font-family: 'Outfit'; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+.p1{
+color: #252422;
+font-size: 59px;
+font-family: 'Rubik';
+font-weight: 700;
+line-height: 69.11px;
+word-wrap: break-word;
+}
+.expert{
+color: #D27722;
+font-size: 60px;
+font-family: 'Pacifico';
+/* font-weight: 700; */
+line-height: 69.11px;
+word-wrap: break-word
+}
+.p2{
+    width: 100%;
+color: #403D39;
+font-size: 16px;
+font-family: 'Outfit';
+font-weight: 400;
+line-height: 25.60px;
+word-wrap: break-word
+}
+.p3{
+color: #252422;
+font-size: 16px;
+font-family: 'Outfit';
+font-weight: 500;
+word-wrap: break-word
+}
+.hero{
+    width: 100%; 
+    /* height: 100%; 
+    background: linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%);  */
+    border-radius: 32px
+}
+.bt1{
+
+        /* width: 2%;  */
+        /* height: 50%;  */
+        padding-left: 40px; 
+        padding-right: 40px; 
+        padding-top: 8px; 
+        padding-bottom: 8px; 
+        background: #D27722; 
+        border-radius: 4px; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 8px; 
+        display: inline-flex;
+}
+.btn2{
+    color: white; 
+    font-size: 18px; 
+    font-family: 'Outfit'; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+.vector{
+    width: 100%; 
+    height: 100%; 
+    border: 1px #FFDBB8 solid;
+}
+.bg{
+    background-color: #FFFDF4;
+    border: 1px #FFDBB8 solid;
+}
+.txt{
+    color: #D27722;
+    
+}
+#cam1{
+    position: relative;
+    z-index: 9;
+    top: 100px; 
+    /* left: 10px; */
+    right: 10px;
+    /* bottom: 187px; */
+}
+#cam2{
+    position: relative;
+    z-index: 10;
+    bottom: 10px;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+}
+.bg1{
+     background-color: #D27722;
+     color: #D9D9D9;
+     border-radius: 15px;
+
+}
+.cardp{
+color: #252422;
+font-size: 50px;
+font-family: 'Rubik';
+font-weight: 600;
+line-height: 69.11px;
+word-wrap: break-word;
+
+}
+.cardp1{
+color: #252422;
+font-size: 16px;
+font-family: 'Outfit';
+font-weight: 500;
+border: none;
+word-wrap: break-word;
+
+
+}
+.bg2{
+    background-color: white;
+    color: #252422;
+}
+.ben1{
+color: #252422;
+font-size: 32px;
+font-family: 'Rubik';
+font-weight: 600;
+word-wrap: break-word
+}
+.bg3{
+    background-color: #D27722;
+    border-radius: 50%;
+}
+.ben2{
+color: #403D39;
+font-size: 18px;
+font-family: 'Outfit';
+font-weight: 400;
+line-height: 28.80px;
+word-wrap: break-word
+}
+.cards{
+    margin-left: 260px;
+    margin-bottom: 0px;
+    margin-top: -22%;
+    
+}
+.advan{
+   
+color: #252422;
+font-size: 31px;
+font-family: 'Rubik';
+font-weight: 600;
+word-wrap: break-word
+}
+.advanh{
+ color: #252422;
+font-size: 24px;
+font-family: 'Rubik';
+font-weight: 600;
+word-wrap: break-word
+}
+.advanp{
+color: #403D39;
+font-size: 16px;
+font-family: 'Outfit';
+font-weight: 400;
+line-height: 25.60px;
+padding-left: inherit;
+word-wrap: break-word
+}
+.advancard{
+    border: 1px  #FFDBB8 solid;
+    padding: 0%;
+    margin: 0%;
+    border-radius: 20px;
+}
+.advancardp{
+color: white;
+font-size: 24px;
+font-family: 'Rubik';
+font-weight: 500;
+word-wrap: break-word
+}
+.bg4{
+    background-color: #D27722;
+  
+}
+.advanp2{
+color: white;
+font-size: 14px;
+font-family: 'Outfit';
+font-weight: 400;
+line-height: 22.40px;
+word-wrap: break-word
+}
+.advancards{
+    border: none;
+    width: 18rem;
+}
+
+.bt5{
+ color: white;
+font-size: 64px;
+font-family:' Red Hat Display';
+font-weight: 900;
+word-wrap: break-word;
+padding-left: 40px; 
+padding-right: 40px; 
+padding-top: 8px; 
+padding-bottom: 8px; 
+background: #D27722; 
+border-radius: 4px; 
+justify-content: center; 
+align-items: center; 
+gap: 8px; 
+display: inline-flex;
+}
+.advancardz{
+    width: 30rem;
+    border: #FFDBB8 solid;
+    height: 250px;
+}
+.student{
+    color: white;
+    font-size: 50px;
+    font-family: 'Rubik';
+    font-weight: 600;
+    line-height: 69.11px;
+    word-wrap: break-word;
+    
+}
+.stud1{
+color: white;
+font-size: 18px;
+font-family: 'Outfit';
+font-weight: 400;
+line-height: 28.80px;
+word-wrap: break-word
+    }
+
+ .stud2{
+
+        /* width: 2%;  */
+        /* height: 50%;  */
+        padding-left: 40px; 
+        padding-right: 40px; 
+        padding-top: 8px; 
+        padding-bottom: 8px; 
+        color: #D27722; 
+        background-color:whitesmoke;
+        border-radius: 4px; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 8px; 
+        display: inline-flex;
+}
+
+.tags{
+    color: #D27722 ; 
+    background-color:#FFFDF4;
+    border: 1px #D27722 solid;
+    border-radius: 25px;
+   
+}
+.cardz{
+    width: 18rem;
+    border: none;
+
+}
+.person{
+    width: 400px;
+    border-radius: 5%;
+}
+
+.foot{
+    font-size: 56px;
+font-family: 'Rubik';
+font-weight: 700;
+
+}
+.foot2{
+font-size: 20px;
+font-family: 'Outfit';
+font-weight: 400;
+}
+.foot3{
+font-size: 16px;
+font-family: 'Outfit';
+font-weight: 400;
+color: #FFDBB8;
+}
+.person1{
+    font-size: 16px;
+font-family: 'Outfit';
+font-weight: 400;
+color: #403D39;
+}
+.wrap{
+    width: 98%;
+}
+/* -----overlay css------ */
+#ben1{
+    position: relative;
+    z-index: 10;
+    top: -155px; 
+    left: -7px;
+    right: 10px;
+    /* bottom: 187px; */
+}
+#ben2{
+    position: relative;
+    z-index: 3;
+    bottom: 10px;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+}
+#work1 {
+    position: relative;
+    z-index: 9;
+    top: -324px;
+    left: 10px;
+    right: 10px;
+    /* bottom: 187px; */
+}
+#work2{
+    position: relative;
+    z-index: 3;
+    bottom: 10px;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+}
+#wor1{
+    position: relative;
+    z-index: 9;
+    top: -88px; 
+    left: 10px;
+    right: 10px;
+    /* bottom: 187px; */
+}
+#wor2{
+    position: relative;
+    z-index: 3;
+    bottom: 10px;
+    top: -150px;
+    left: 10px;
+    right: 10px;
+}
+#word1{
+    position: relative;
+    z-index: 9;
+    top: -41px; 
+    left: 10px;
+    right: 10px;
+    /* bottom: 187px; */
+}
+#word2{
+    position: relative;
+    /* z-index: 3; */
+    /* bottom: 10px; */
+    top: -150px;
+    /* left: 10px; */
+    right: 10px;
+}
+#card1{
+    position: relative;
+    z-index: 9;
+    top: -124px; 
+    left: 18px;
+    right: 10px;
+    /* bottom: 187px; */
+}
+#card2{
+    position: relative;
+    z-index: 3;
+    /* bottom: 10px; */
+    top: -150px;
+    left: 10px;
+    right: 10px;
+}
+#hero1 {
+    position: relative;
+    z-index: 10;
+    top: -78px;
+    left: 6px;
+    right: 10px;
+    /* bottom: 187px; */
+    /* width: 46px; */
+}
+#hero2{
+    position: relative;
+    z-index: 3;
+    bottom: 10px;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+}
+.cardd{
+    border-radius: 15px;
+}
+.cardd:hover{
+     background-color: #D27722;
+     color: #D9D9D9;
+    overflow: hidden;
+
+}
+

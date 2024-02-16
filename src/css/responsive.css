@@ -1,0 +1,304 @@
+@media(max-width:2560px){
+    #vegan {
+        width: 40%;
+        margin-top: 30px;
+        margin-left: 40%;
+
+    }
+    .icon{
+        color: white;
+    }
+}
+
+@media(max-width: 1440px) {
+    #vegan {
+        width: 40%;
+        margin-top: 30px;
+        margin-left: 40%;
+
+    }
+    #cam2 {
+        position: relative;
+        z-index: 10;
+        bottom: 10px;
+        top: 10px;
+        left: 141px;
+        right: 10px;
+    }
+
+}
+
+
+
+@media(max-width: 1280px) {
+    #wor2 {
+        position: relative;
+        z-index: 3;
+        bottom: 10px;
+        top: -150px;
+        left: 10px;
+        right: 10px;
+    }
+
+    #word2 {
+        position: relative;
+        /* z-index: 3; */
+        /* bottom: 10px; */
+        top: -150px;
+        /* left: 10px; */
+        right: 10px;
+    }
+
+    #card2 {
+        position: relative;
+        z-index: 3;
+        /* bottom: 10px; */
+        top: -150px;
+        left: 10px;
+        right: 10px;
+    }
+
+    #card1 {
+        position: relative;
+        z-index: 9;
+        top: -124px;
+        left: 18px;
+        right: 10px;
+        /* bottom: 187px; */
+    }
+
+    #vegan {
+        width: 40%;
+        margin-top: 30px;
+        margin-left: 40%;
+
+    }
+
+}
+
+@media(max-width:1024px) {
+    .nowrapone{
+        white-space: nowrap !important;
+    }
+}
+
+@media(min-width:1024px) {
+    #hero1 {
+        display: none;
+    }
+
+
+}
+@media(max-width:990px){
+    #work1,
+    #cam1,
+    #ben1,
+    #wor1,
+    #word1,
+    #vector {
+        display: none;
+    }
+    #wor2 {
+        position: relative;
+        z-index: 3;
+        bottom: 10px;
+        top: 10px;
+        left: 10px;
+        right: 10px;
+    }
+    #word2 {
+        position: relative;
+        z-index: 3;
+        bottom: 8px;
+        top: -59px;
+        left: 40px;
+        right: 10px;
+    }
+    #card2 {
+        position: relative;
+        z-index: 3;
+        /* bottom: 10px; */
+        top: -31px;
+        left: 10px;
+        right: 10px;
+    }
+    #card1 {
+        position: relative;
+        z-index: 9;
+        top: -3px;
+        left: 18px;
+        right: 10px;
+        /* bottom: 187px; */
+    }
+    .icon{
+        color: greenyellow;
+    }
+    .cook{
+        display: none;
+    }
+
+}
+
+@media(max-width: 768px) {
+
+    #work1,
+    #cam1,
+    #ben1,
+    #wor1,
+    #word1,
+    #vector {
+        display: none;
+    }
+
+    #wor2 {
+        position: relative;
+        z-index: 3;
+        bottom: 10px;
+        top: 10px;
+        left: 10px;
+        right: 10px;
+    }
+
+    #word2 {
+        position: relative;
+        z-index: 3;
+        bottom: 8px;
+        top: -59px;
+        left: 40px;
+        right: 10px;
+    }
+
+    #card2 {
+        position: relative;
+        z-index: 3;
+        /* bottom: 10px; */
+        top: -31px;
+        left: 10px;
+        right: 10px;
+    }
+
+    #card1 {
+        position: relative;
+        z-index: 9;
+        top: -3px;
+        left: 18px;
+        right: 10px;
+        /* bottom: 187px; */
+    }
+
+    #vegan {
+        width: 60%;
+        margin-top: 30px;
+        margin-left: 17%;
+    }
+
+}
+
+@media(max-width: 640px) {}
+
+@media(max-width: 425px) {
+    #hero1 {
+        position: relative;
+        z-index: 10;
+        top: -78px;
+        left: 6px;
+        right: 10px;
+        /* bottom: 187px; */
+        /* width: 46px; */
+    }
+    #word2 {
+        position: relative;
+        z-index: 3;
+        bottom: 8px;
+        top: -59px;
+        left: 18px;
+        right: 10px;
+    }
+    .advancardz {
+        width: 39rem;
+        border: #FFDBB8 solid;
+        height: 330px;
+    }
+    #cam2 {
+        position: relative;
+        z-index: 10;
+        bottom: 10px;
+        top: 10px;
+        left: 60px;
+        right: 10px;
+    }
+    #card2 {
+        position: relative;
+        z-index: 3;
+        /* bottom: 10px; */
+        top: -31px;
+        left: 1px;
+        right: 10px;
+    }
+    #btn{
+        display: none;
+    }
+    #vegan {
+        width: 90%;
+        margin-top: 30px;
+        margin-left: 5%;
+    }
+}
+
+@media(max-width: 375px) {
+    #vegan {
+        width: 94%;
+        margin-top: 30px;
+        margin-left: 4%;
+    }
+    .person {
+        width: 265px;
+        border-radius: 5%;
+        height: 220px;
+    }
+    .advancardz {
+        width: 39rem;
+        border: #FFDBB8 solid;
+        height: 357px;
+    }
+}
+
+@media(max-width: 320px) {
+    .advancardz {
+        width: 39rem;
+        border: #FFDBB8 solid;
+        height: 380px;
+    }
+    #word2 {
+        position: relative;
+        z-index: 3;
+        bottom: 8px;
+        top: -20px;
+        left: 5px;
+        right: 10px;
+    }
+    .cardp {
+        color: #252422;
+        font-size: 35px;
+        font-family: 'Rubik';
+        font-weight: 600;
+        line-height: 69.11px;
+        word-wrap: break-word;
+    }
+    .p1 {
+        color: #252422;
+        font-size: 40px;
+        font-family: 'Rubik';
+        font-weight: 600;
+        line-height: 69.11px;
+        word-wrap: break-word;
+    }
+    #cam2 {
+        position: relative;
+        z-index: 10;
+        bottom: 10px;
+        top: 10px;
+        left: 40px;
+        right: 10px;
+    }
+}
